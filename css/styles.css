@@ -1697,7 +1697,7 @@ a:hover.back-to-top {
 
 	/* Contact */
 	.form .list-unstyled li {
-		display: inline-block;
+		/*display: inline-block;*/
 		margin-right: 0.5rem;
 		margin-left: 0.5rem;
 	}
