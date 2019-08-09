@@ -638,12 +638,13 @@ input[type='checkbox'] {
 	-webkit-backface-visibility: hidden;
 }
 
-.navbar-custom .navbar-brand.logo-text {
-	font: 700 1.5rem "Montserrat", sans-serif;
-	color: #fff;
-	letter-spacing: -0.5px;
-	text-decoration: none;
-}
+    .navbar-custom .navbar-brand.logo-text {
+        /*font: 700 2.375rem/1.5rem "Montserrat", sans-serif;*/
+        font: 700 1.5rem "Montserrat", sans-serif;
+        color: #fff;
+        letter-spacing: -0.5px;
+        text-decoration: none;
+    }
 
 .navbar-custom .navbar-nav {
 	margin-top: 0.75rem;
